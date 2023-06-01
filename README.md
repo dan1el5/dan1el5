@@ -1,7 +1,7 @@
 Hey 👋 I'm Dan.
 =====================
 
-cs student / developer
+cs student / full stack dev
 ----------------------
 
 I'm going into my third year at the university of western ontario. I'm constantly learning about new technologies, and I try to develop my skills in areas that interest me. Some of these areas include web development, blockchain, bots, and machine learning.
