@@ -1,4 +1,4 @@
-Hi 👋 My name is dan.
+Hey 👋 I'm Dan.
 =====================
 
 cs student / developer
