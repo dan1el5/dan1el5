@@ -4,12 +4,12 @@ Hi 👋 My name is dan.
 cs student / developer
 ----------------------
 
-I'm in my second year at the university of western ontario. I'm constantly learning about new technologies, and I try to develop my skills in areas that interest me. Some of these areas include web development, blockchain, bots, and machine learning.
+I'm going into my third year at the university of western ontario. I'm constantly learning about new technologies, and I try to develop my skills in areas that interest me. Some of these areas include web development, blockchain, bots, and machine learning.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [danielgomes056@gmail.com](mailto:danielgomes056@gmail.com)
-* 🚀  I'm currently working on [Western Developer's League](http://www.linkedin.com/company/western-dev-society/mycompany/)
-* 🧠  I'm learning writing scripts with bash
+* 🚀  I'm currently working on a project for my [digital agency](https://aurelisagency.com/)
+* 🧠  I'm learning how to create webapps with python
 
 ### Skills
 
