@@ -1,15 +1,11 @@
 Hey 👋 I'm Dan.
 =====================
 
-cs student / agency owner / full stack dev
+cs student / agency co-founder / full stack dev
 ----------------------
 
-I'm going into my third year at the university of western ontario. I'm constantly learning about new technologies, and I try to develop my skills in areas that interest me. Some of these areas include web development, blockchain, bots, and machine learning.
-
 * 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [danielgomes056@gmail.com](mailto:danielgomes056@gmail.com)
-* 🚀  I'm currently working on a project for my [digital agency](https://aurelisagency.com/)
-* 🧠  I'm learning how to create webapps with python
+* ✉️  You can contact me at https://www.thedangomes.com/
 
 ### Skills
 
