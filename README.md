@@ -5,7 +5,8 @@ cs student / agency co-founder / full stack dev
 ----------------------
 
 * 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at https://www.thedangomes.com/
+* ✉️  You can contact me @ https://www.thedangomes.com/
+* 🪐  You can work with me @ https://aurelisagency.com/
 
 ### Skills
 
