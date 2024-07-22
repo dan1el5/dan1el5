@@ -1,7 +1,7 @@
 Hey 👋 I'm Dan.
 =====================
 
-cs student / agency co-founder / full stack dev
+cs student / full stack dev
 ----------------------
 
 * 🌍  I'm based in Toronto, Canada
