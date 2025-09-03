@@ -1,7 +1,7 @@
 Hey 👋 I'm Dan.
 =====================
 
-cs student / full stack dev
+Full-Stack Dev
 ----------------------
 
 * 🌍  I'm based in Toronto, Canada
