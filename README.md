@@ -1,7 +1,7 @@
-Hey 👋 I'm Dan.
+Hey 👋 I'm Dan
 =====================
 
-Full-Stack Dev
+Product Designer & Full-Stack Developer
 ----------------------
 
 * 🌍  I'm based in Toronto, Canada
