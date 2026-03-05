@@ -4,7 +4,7 @@ Hey 👋 I'm Dan
 Product Designer & Full-Stack Developer
 ----------------------
 
-🌍  I'm based in Toronto, Canada
+### 🌍 Toronto, Canada
 
 ### 💻 Tech Stack
 
