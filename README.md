@@ -1,7 +1,7 @@
 Hey 👋 I'm Dan
 =====================
 
-Product Designer & Full-Stack Developer
+Product Designer & Full-Stack Engineer
 ----------------------
 
 ### 🌍 Toronto, Canada
